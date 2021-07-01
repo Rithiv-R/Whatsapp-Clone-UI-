@@ -6,15 +6,15 @@ This is the basic WhatsApp Clone(UI) made using Flutter, Dart.
 
 **ChatScreen**
 
-![Chat](assets\screenshots\chat.jpg)
+![Chat](assets/screenshots/chat.jpg)
 
 **StatusScreen**
 
-![Status](assets\screenshots\status.jpg)
+![Status](assets/screenshots/status.jpg)
 
 **CallsScreen**
 
-![Calls](assets\screenshots\calls.jpg)
+![Calls](assets/screenshots/calls.jpg)
 
 
 ## Getting Started
